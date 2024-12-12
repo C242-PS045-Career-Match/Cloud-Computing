@@ -14,7 +14,7 @@ An application that guides students in discovering their talents through a compr
  
 # Firebase Database Configuration
 To obtain the required configuration, create a Firebase project and retrieve the following details:
-``` API_KEY```
+```API_KEY```
 AUTH_DOMAIN
 PROJECT_ID
 STORAGE_BUCKET
