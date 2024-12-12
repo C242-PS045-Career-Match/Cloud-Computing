@@ -12,6 +12,11 @@ An application that guides students in discovering their talents through a compr
   - App Engine
   - Cloud Storage/Buckets
  
-  # Firebase Database Configuration
-  To obtain the required configuration, create a Firebase project and retrieve the following details:
-  
+# Firebase Database Configuration
+To obtain the required configuration, create a Firebase project and retrieve the following details:
+``` API_KEY
+AUTH_DOMAIN
+PROJECT_ID
+STORAGE_BUCKET
+MESSAGING_SENDERID
+APP_ID ```
