@@ -14,17 +14,12 @@ An application that guides students in discovering their talents through a compr
  
 # Firebase Database Configuration
 To obtain the required configuration, create a Firebase project and retrieve the following details:
-```API_KEY```
-AUTH_DOMAIN
-PROJECT_ID
-STORAGE_BUCKET
-MESSAGING_SENDERID
-APP_ID
+```API_KEY AUTH_DOMAIN PROJECT_ID STORAGE_BUCKET MESSAGING_SENDERID APP_ID```
 
 # Firebase Service Account
-``` - Create your firebase project
+- Create your firebase project
 - Download your service account and copy in serviceAccount-firebase-key.json
 
 # Bucket Service Account
-```  - create your cloud bucket
+- create your cloud bucket
 - create service account and copy in serviceAccount-image-key.json
