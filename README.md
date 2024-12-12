@@ -19,7 +19,7 @@ AUTH_DOMAIN
 PROJECT_ID
 STORAGE_BUCKET
 MESSAGING_SENDERID
-APP_ID
+APP_ID```
 
 # Firebase Service Account
 ``` - Create your firebase project
