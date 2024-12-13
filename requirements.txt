@@ -1,0 +1,10 @@
+flask
+numpy
+pandas
+requests
+sqlalchemy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+firebase_admin
