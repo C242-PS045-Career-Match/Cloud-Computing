@@ -4,7 +4,7 @@ An application that guides students in discovering their talents through a compr
 # Documentation and Sources
 
 # Backend and Cloud Architecture
-![Databrick project with Snowflake](cloud-architecture.png)
+![cloud-architecture](https://github.com/user-attachments/assets/bcb27e45-29ae-4b74-aecd-788b8b02feca)
 
 # Tech Stack
 - Firebase
