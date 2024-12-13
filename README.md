@@ -1,8 +1,6 @@
 # Career Match 
 An application that guides students in discovering their talents through a comprehensive interest and aptitude test.
 
-# Documentation and Sources
-
 # Backend and Cloud Architecture
 ![cloud-architecture](https://github.com/user-attachments/assets/bcb27e45-29ae-4b74-aecd-788b8b02feca)
 
