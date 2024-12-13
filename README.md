@@ -10,6 +10,8 @@ An application that guides students in discovering their talents through a compr
   - Cloud Functions
   - App Engine
   - Cloud Storage/Buckets
+  - Service Account
+  - Cloud Run
  
 # Firebase Database Configuration
 To obtain the required configuration, create a Firebase project and retrieve the following details:
